@@ -6,3 +6,4 @@ numpy
 pandas
 mysql-connector-python
 tf-keras
+opencv-python-headless
