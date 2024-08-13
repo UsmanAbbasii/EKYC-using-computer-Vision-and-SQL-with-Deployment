@@ -1,0 +1,8 @@
+streamlit
+deepface
+easyocr
+pillow
+numpy
+pandas
+mysql-connector-python
+tf-keras
